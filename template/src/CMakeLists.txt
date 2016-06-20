@@ -8,6 +8,7 @@ MESSAGE(STATUS "· ${PROJ_NAME} document added!")
 # ------------------------------------------------------------------------------------------------------
 SET(${PROJ_NAME}_DOCS "doc/main.md")
 SET(${PROJ_NAME}_RESOURCES img )
+#SET(${PROJ_NAME}_TEMPLATE "--template=mytemplate.tex")
 
 # Step III: create document using pandoc
 # ------------------------------------------------------------------------------------------------------

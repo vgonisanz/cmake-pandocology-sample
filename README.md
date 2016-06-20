@@ -4,7 +4,7 @@ This is a sample how to use vgonisanz fork from cmake-pandocology
 
 ## Instructions
 
-All md document in markdown ar in doc folders. All images are in img folder. For each
+All md document in markdown format in doc folders. All images are in img folder. For each
 project.
 
 ### Test sample doc

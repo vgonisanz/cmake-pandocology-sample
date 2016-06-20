@@ -1,0 +1,3 @@
+[submodule "cmake/Modules/cmake-pandocology"]
+	path = cmake/Modules/cmake-pandocology
+	url = git://github.com/vgonisanz/cmake-pandocology

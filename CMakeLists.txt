@@ -16,6 +16,7 @@ MESSAGE(STATUS "Documentation project ${PROJ_MAIN_NAME}")
 # Main Step II: Configure main pandoc variables
 # ------------------------------------------------------------------------------------------------------
 CONFIGUREPANDOCOLOGY()
+SET(${PROJ_MAIN_NAME}_PATH_MAIN ${CMAKE_SOURCE_DIR} CACHE PATH "This directory contains initial Path" )
 
 # Main Step III: Create option for compile or not docs
 # ------------------------------------------------------------------------------------------------------

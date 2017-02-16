@@ -9,6 +9,15 @@ project.
 
 > If you change images or templates, maybe need to reconfigure from cmake
 
+1. Clone this repository with cmake-pandocology:
+``` git clone --recursive git@github.com:vgonisanz/cmake-pandocology-sample.git ```
+1. Create build folder:
+``` cd cmake-pandocology-sample/ && mkdir build && cd build ```
+1. Generate makefiles:
+``` cmake .. ```
+1. Compile:
+``` make ```
+
 ### Dependencies
 
 * pandoc
